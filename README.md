@@ -50,7 +50,6 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 - [ReLU activation](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Supervised-learning/Advanced-ML/relu-activation/C2_W2_Relu.ipynb)
 - [Softmax Function](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Supervised-learning/Advanced-ML/relu-activation/C2_W2_SoftMax.ipynb)
 - [Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Supervised-learning/Advanced-ML/softmax-multiclass-lab/C2_W2_Assignment.ipynb)
-- []
 
 ## Deep Learning Specialization
 
