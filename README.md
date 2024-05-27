@@ -51,6 +51,17 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 - [Softmax Function](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Supervised-learning/Advanced-ML/relu-activation/C2_W2_SoftMax.ipynb)
 - [Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Supervised-learning/Advanced-ML/softmax-multiclass-lab/C2_W2_Assignment.ipynb)
 
+### Unsupervised Learning
+
+- [Anomaly Detection](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Unsupervised_Learning/anomaly-detection/C3_W1_Anomaly_Detection.ipynb)
+- [K-means Clustering - Clustering Algorithm](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Unsupervised_Learning/clustering-algorithm/C3_W1_KMeans_Assignment.ipynb)
+- [PCA - An example on Exploratory Data Analysis](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Unsupervised_Learning/principal-component-analysis/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
+- [Collaborative Filtering Recommender Systems](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Unsupervised_Learning/recommender-system/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+
+### Reinforcement Learning
+
+- [Deep Q-Learning - Lunar Lander](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/machine-learning/Reinforcement-Learning/lunar-lander-labs/C3_W3_A1_Assignment.ipynb)
+
 ## Deep Learning Specialization
 
 - [Logistic Regression with a Neural Network mindset](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_2/labs/Logistic_Regression_with_a_Neural_Network_mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
