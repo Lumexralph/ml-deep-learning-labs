@@ -3,8 +3,6 @@
 These are all my work for [Machine Learning](https://www.coursera.org/learn/machine-learning?)
 and [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera.
 
-# Lab Assignments
-
 ## Machine Learning Specialization
 
 ## Deep Learning Specialization
