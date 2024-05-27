@@ -53,3 +53,13 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 
 ## Deep Learning Specialization
 
+- [Logistic Regression with a Neural Network mindset](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_2/labs/Logistic_Regression_with_a_Neural_Network_mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+- [Python Basics with Numpy](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_2/labs/python_basics_with_numpy/Python_Basics_with_Numpy.ipynb)
+- [Planar data classification with one hidden layer](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_3/lab/Planar_data_classification_with_one_hidden_layer.ipynb)
+- [Building your Deep Neural Network: Step by Step](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_4/labs/Building_Deep_Neural_Network/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- [Deep Neural Network for Image Classification: Application](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/1_neural_networks_deep_learning/week_4/labs/Deep_Neural_Network-Application/Deep%20Neural%20Network%20-%20Application.ipynb)
+- [Gradient Checking](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/2_improving_deep_neural_networks/week_1/labs/gradient_checking/Gradient_Checking.ipynb)
+- [Initialization](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/2_improving_deep_neural_networks/week_1/labs/parameter_initialization/W1A1/Initialization.ipynb)
+- [Regularization](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/2_improving_deep_neural_networks/week_1/labs/regularization/W1A2/Regularization.ipynb)
+- [Optimization Methods](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/3_optimization_algorithms/Optimization_methods_labs/Optimization_methods.ipynb)
+- [Introduction to TensorFlow](https://github.com/Lumexralph/ml-deep-learning-labs/blob/main/deep-learning/4_hyperparameter_tuning_process/TensorFlow_labs/Tensorflow_introduction.ipynb)
